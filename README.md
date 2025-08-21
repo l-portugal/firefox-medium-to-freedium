@@ -3,7 +3,7 @@
 Extensión para Firefox que redirige automáticamente cualquier enlace de **medium.com** hacia **freedium.cfd**.
 
 ## 🚀 Instalación
-1. Descarga el `.zip` desde [web-ext-artifacts](https://github.com/l-portugal/firefox-medium-to-freedium/web-ext-artifacts).
+1. Descarga el `.zip` desde [web-ext-artifacts](https://github.com/l-portugal/firefox-medium-to-freedium/tree/main/web-ext-artifacts).
 
 
 2. En firefox ingresar en URL `about:config` y setear 
