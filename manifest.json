@@ -1,0 +1,21 @@
+{
+    "manifest_version": 2,
+    "name": "Medium to Freedium Redirect",
+    "version": "1.0",
+    "description": "Redirige automáticamente enlaces de Medium hacia Freedium",
+    "icons": {
+        "48": "icons/icon48.png",
+        "96": "icons/icon96.png"
+    },
+    "permissions": [
+        "webRequest",
+        "webRequestBlocking",
+        "<all_urls>"
+    ],
+    "background": {
+        "scripts": [
+            "background.js"
+        ],
+        "persistent": true
+    }
+}
